@@ -1,0 +1,238 @@
+{
+  "week": 1,
+  "unit": "U1",
+  "node": "W1",
+  "theme": "Stegosaurus",
+  "tagline": "Color, squash, build, and find a match.",
+  "bigIdea": "One dinosaur, many ways to notice.",
+  "dinosaur": {
+    "id": "stegosaurus",
+    "name": "Stegosaurus",
+    "say": "STEG-oh-SORE-us",
+    "diet": "plants",
+    "era": "Late Jurassic",
+    "feature": "Stegosaurus had back plates and tail spikes.",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+      "https://eastern.usu.edu/prehistoric-museum/_files/exhibits/handout-stegosaurus.pdf"
+    ]
+  },
+  "letter": {
+    "char": "S",
+    "phoneme": "/s/",
+    "sound": "/s/ — a quiet, steady hiss.",
+    "hint": "Say /s/, not the letter name. Let {{them}} listen or echo."
+  },
+  "number": {
+    "focus": "Match 3, then 4; stop at the amount requested.",
+    "parentTip": "Match three, then four. Keep numeral strips aside while matching; five is for another willing turn."
+  },
+  "color": {
+    "name": "green",
+    "hex": "#4F7942"
+  },
+  "books": [
+    {
+      "title": "Dinosaur Roar!",
+      "author": "Paul & Henrietta Stickland",
+      "note": "Choose a favorite picture."
+    },
+    {
+      "title": "How Do Dinosaurs Say Good Night?",
+      "author": "Jane Yolen; art: Mark Teague",
+      "note": "Hear /s/ at the start of “say.”"
+    },
+    {
+      "title": "Ten Little Dinosaurs",
+      "author": "Mike Brownlow; art: Simon Rickerty",
+      "note": "Count a few; no need to reach ten."
+    }
+  ],
+  "songs": [
+    "We Are the Dinosaurs — Laurie Berkner. March or sway.",
+    "Five Enormous Dinosaurs — traditional. Stomp and count a few.",
+    "Stomp Like a Dinosaur — Super Simple. Hear /s/ in “stomp.”"
+  ],
+  "materials": [
+    "Pages, scissors, crayons, scrap paper",
+    "Playdough, washable mat",
+    "8 magnet tiles (4 each of 2 colors), cloth"
+  ],
+  "parentNote": "Stay and play for 2–10 minutes. Choose one route; stop on pushback. Books and songs are choices, not a checklist.",
+  "days": [
+    {
+      "id": "W1-D1",
+      "day": "Monday",
+      "title": "Hello, Stegosaurus!",
+      "milestones": [
+        "R1",
+        "R2",
+        "M0"
+      ],
+      "minutes": [
+        2,
+        10
+      ],
+      "invitation": "Want to color Stegosaurus, or roll a dough loop for it?",
+      "decision": "Which spoken word starts with /s/: sun or cup?",
+      "harder": "If that sound game is easy, try a fresh spoken pair: ball or sock.",
+      "exitCheck": "Which word did {{they}} choose for /s/?",
+      "what": "Want to color Stegosaurus, or roll a dough loop for it? Share the dinosaur strip as you play. Let {{them}} color or join the ends of a dough snake. A free crayon circle on scrap is welcome too. For a sound turn, say “sun” and “cup” naturally; ask which starts with /s/. If the words or game are new, show one together first. Point to S and model /s/; an echo is welcome. If {{they}} want{{s}} a repeat, reverse the spoken word order.",
+      "hiddenSkill": "R1 R2 M0",
+      "why": "A familiar spoken word gives the new sound somewhere to belong.",
+      "cardBlurb": "The coloring page, crayons and scrap paper; a little dough on a washable mat. Want to color Stegosaurus, or roll a dough loop for it? Share the dinosaur strip as you play. Let {{them}} color or join the ends of a dough snake. A free crayon circle on scrap is welcome too. For a sound turn, say “sun” and “cup” naturally; ask which starts with /s/. If the words or game are new, show one together first. Point to S and model /s/; an echo is welcome. If {{they}} want{{s}} a repeat, reverse the spoken word order. Stop on pushback.",
+      "needs": "Page, card, crayons, scrap paper, playdough, washable mat; parent present.",
+      "printable": {
+        "template": "coloring-page",
+        "title": "Hello, Stegosaurus!",
+        "instruction": "Want to color Stegosaurus, or roll a dough loop for it?",
+        "params": {}
+      },
+      "setup": "The coloring page, crayons and scrap paper; a little dough on a washable mat.",
+      "play": "Share the dinosaur strip as you play. Let {{them}} color or join the ends of a dough snake. A free crayon circle on scrap is welcome too. For a sound turn, say “sun” and “cup” naturally; ask which starts with /s/. If the words or game are new, show one together first. Point to S and model /s/; an echo is welcome. If {{they}} want{{s}} a repeat, reverse the spoken word order."
+    },
+    {
+      "id": "W1-D2",
+      "day": "Tuesday",
+      "title": "Match the eggs",
+      "milestones": [
+        "N1"
+      ],
+      "minutes": [
+        2,
+        10
+      ],
+      "invitation": "Want to make dough eggs, or build their pen with magnet tiles?",
+      "decision": "Which card has the same number of eggs as the target?",
+      "harder": "Empty the pen, gather eight dough eggs outside it, and invite five if four was easy.",
+      "exitCheck": "When you asked for three or four eggs, how many did {{they}} put in?",
+      "what": "Want to make dough eggs, or build their pen with magnet tiles? While {{they}} make{{s}} dough eggs, join four tiles into a pen; if {{they}} build{{s}} the pen, make the eggs. Then put a three-egg card above two choices (three and four); set the spare card aside. Let {{them}} find the same amount. Shuffle choices and switch the target to four when {{they}} want{{s}} another go. Fill the pen with the matching number; tile count does not matter.",
+      "hiddenSkill": "N1",
+      "why": "Different arrangements keep the choice about quantity, not position.",
+      "cardBlurb": "Cut four egg cards; keep the numeral strip aside. Dough, mat and eight magnet tiles nearby. Want to make dough eggs, or build their pen with magnet tiles? While {{they}} make{{s}} dough eggs, join four tiles into a pen; if {{they}} build{{s}} the pen, make the eggs. Then put a three-egg card above two choices (three and four); set the spare card aside. Let {{them}} find the same amount. Shuffle choices and switch the target to four when {{they}} want{{s}} another go. Fill the pen with the matching number; tile count does not matter. Stop on pushback.",
+      "needs": "Page, card, scissors, dough for eight eggs, washable mat, eight magnet tiles; parent present.",
+      "printable": {
+        "template": "count-and-match",
+        "title": "Match the eggs",
+        "instruction": "Want to make dough eggs, or build their pen with magnet tiles?",
+        "params": {}
+      },
+      "setup": "Cut four egg cards; keep the numeral strip aside. Dough, mat and eight magnet tiles nearby.",
+      "play": "While {{they}} make{{s}} dough eggs, join four tiles into a pen; if {{they}} build{{s}} the pen, make the eggs. Then put a three-egg card above two choices (three and four); set the spare card aside. Let {{them}} find the same amount. Shuffle choices and switch the target to four when {{they}} want{{s}} another go. Fill the pen with the matching number; tile count does not matter."
+    },
+    {
+      "id": "W1-D3",
+      "day": "Wednesday",
+      "title": "Find Stegosaurus’s shadow",
+      "milestones": [
+        "L1"
+      ],
+      "minutes": [
+        2,
+        10
+      ],
+      "invitation": "Want to find Stegosaurus’s shadow, or hide its picture for me?",
+      "decision": "Which of the three dinosaur shadows belongs to Stegosaurus?",
+      "harder": "Hide the picture and invite its name and food while {{they}} look{{s}} at the shadow.",
+      "exitCheck": "What did {{they}} call Stegosaurus or remember about its food?",
+      "what": "Want to find Stegosaurus’s shadow, or hide its picture for me? Name Stegosaurus while {{they}} handle{{s}} the picture. Let {{them}} point to its shadow or park the picture below it; it need not fit exactly. Talk about plates and spikes afterward; share that it ate plants. If {{they}} choose{{s}} hiding, close your eyes while {{they}} cover{{s}} the picture; then you find it. Swap roles if {{they}} want{{s}} a turn finding.",
+      "hiddenSkill": "L1",
+      "why": "Comparing three dinosaur shapes makes the plates and horns useful clues.",
+      "cardBlurb": "Cut out the lower picture. Keep the three shadows whole; bring a cloth for hiding. Want to find Stegosaurus’s shadow, or hide its picture for me? Name Stegosaurus while {{they}} handle{{s}} the picture. Let {{them}} point to its shadow or park the picture below it; it need not fit exactly. Talk about plates and spikes afterward; share that it ate plants. If {{they}} choose{{s}} hiding, close your eyes while {{they}} cover{{s}} the picture; then you find it. Swap roles if {{they}} want{{s}} a turn finding. Stop on pushback.",
+      "needs": "Page, card, scissors and cloth; parent present.",
+      "printable": {
+        "template": "shadow-match",
+        "title": "Find Stegosaurus’s shadow",
+        "instruction": "Want to find Stegosaurus’s shadow, or hide its picture for me?",
+        "params": {
+          "species": [
+            "ankylosaurus",
+            "stegosaurus",
+            "triceratops"
+          ]
+        }
+      },
+      "setup": "Cut out the lower picture. Keep the three shadows whole; bring a cloth for hiding.",
+      "play": "Name Stegosaurus while {{they}} handle{{s}} the picture. Let {{them}} point to its shadow or park the picture below it; it need not fit exactly. Talk about plates and spikes afterward; share that it ate plants. If {{they}} choose{{s}} hiding, close your eyes while {{they}} cover{{s}} the picture; then you find it. Swap roles if {{they}} want{{s}} a turn finding."
+    },
+    {
+      "id": "W1-D4",
+      "day": "Thursday",
+      "title": "What comes next?",
+      "milestones": [
+        "T1"
+      ],
+      "minutes": [
+        2,
+        10
+      ],
+      "invitation": "Want to build a tile trail, or choose the next picture?",
+      "decision": "Which picture continues the leaf–egg pattern?",
+      "harder": "After {{their}} first tile choice, offer one more place, with both colors available again.",
+      "exitCheck": "What did {{they}} choose to come next?",
+      "what": "Want to build a tile trail, or choose the next picture? Show red–blue–red–blue and add red together. Take it all apart. Then lay blue–red–blue–red; offer one tile of each color for the next place. Or name the printed row together, leaving its blank for {{name}}. Keep both picture choices available; {{they}} can point or park a card below the blank. One route is enough.",
+      "hiddenSkill": "T1",
+      "why": "The objects change, but the repeating relationship stays the same.",
+      "cardBlurb": "Four red and four blue magnet tiles (any two colors work). Cut the two picture choices; keep the row whole. Want to build a tile trail, or choose the next picture? Show red–blue–red–blue and add red together. Take it all apart. Then lay blue–red–blue–red; offer one tile of each color for the next place. Or name the printed row together, leaving its blank for {{name}}. Keep both picture choices available; {{they}} can point or park a card below the blank. One route is enough. Stop on pushback.",
+      "needs": "Page, card, scissors, eight magnet tiles (four each of two colors); parent present.",
+      "printable": {
+        "template": "pattern-strip",
+        "title": "What comes next?",
+        "instruction": "Want to build a tile trail, or choose the next picture?",
+        "params": {
+          "sequence": [
+            "leaf",
+            "egg",
+            "leaf",
+            "egg"
+          ],
+          "choices": [
+            "egg",
+            "leaf"
+          ],
+          "gaps": 1
+        }
+      },
+      "setup": "Four red and four blue magnet tiles (any two colors work). Cut the two picture choices; keep the row whole.",
+      "play": "Show red–blue–red–blue and add red together. Take it all apart. Then lay blue–red–blue–red; offer one tile of each color for the next place. Or name the printed row together, leaving its blank for {{name}}. Keep both picture choices available; {{they}} can point or park a card below the blank. One route is enough."
+    },
+    {
+      "id": "W1-D5",
+      "day": "Friday",
+      "title": "A book for Stegosaurus",
+      "milestones": [
+        "R1",
+        "R2",
+        "L1",
+        "M0"
+      ],
+      "minutes": [
+        2,
+        10
+      ],
+      "invitation": "Want to turn the pages while I read, or make a dough resting place first?",
+      "decision": "Which picture word starts with /s/: ball or sock?",
+      "harder": "Cover the pictures and invite the sound for S, if {{they}} want{{s}} another turn.",
+      "exitCheck": "Did {{they}} make a crayon circle with the ends meeting?",
+      "what": "Want to turn the pages while I read, or make a dough resting place first? Read the captions as {{they}} turn{{s}} pages; {{they}} {{is}} not expected to read them. Talk about the dinosaur eating plants. Name “ball” and “sock” naturally before asking which starts with /s/. Show S and model the sound. On the last page, {{they}} can join a dough snake into a resting loop, or make {{their}} own crayon circle on scrap. No need to do every part. If {{they}} want{{s}} a repeat, reverse the spoken word order.",
+      "hiddenSkill": "R1 R2 L1 M0",
+      "why": "Familiar sounds return in a short book {{they}} can hold and help tell.",
+      "cardBlurb": "Cut the four panels and stack 1–4. Set out dough, a mat, crayons and scrap paper. Want to turn the pages while I read, or make a dough resting place first? Read the captions as {{they}} turn{{s}} pages; {{they}} {{is}} not expected to read them. Talk about the dinosaur eating plants. Name “ball” and “sock” naturally before asking which starts with /s/. Show S and model the sound. On the last page, {{they}} can join a dough snake into a resting loop, or make {{their}} own crayon circle on scrap. No need to do every part. If {{they}} want{{s}} a repeat, reverse the spoken word order. Stop on pushback.",
+      "needs": "Page, card, scissors, optional clip/ring, playdough, washable mat, crayons, scrap paper; parent present.",
+      "printable": {
+        "template": "mini-book",
+        "title": "A book for Stegosaurus",
+        "instruction": "Want to turn the pages while I read, or make a dough resting place first?",
+        "params": {
+          "soundChoices": [
+            "ball",
+            "sock"
+          ],
+          "dietCaption": "It eats plants."
+        }
+      },
+      "setup": "Cut the four panels and stack 1–4. Set out dough, a mat, crayons and scrap paper.",
+      "play": "Read the captions as {{they}} turn{{s}} pages; {{they}} {{is}} not expected to read them. Talk about the dinosaur eating plants. Name “ball” and “sock” naturally before asking which starts with /s/. Show S and model the sound. On the last page, {{they}} can join a dough snake into a resting loop, or make {{their}} own crayon circle on scrap. No need to do every part. If {{they}} want{{s}} a repeat, reverse the spoken word order."
+    }
+  ]
+}

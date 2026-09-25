@@ -1,0 +1,21 @@
+{
+  "name": "home-preschool",
+  "version": "1.0.0",
+  "description": "A print-at-home preschool: one dinosaur a week, one page a day",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "potrace": "^2.1.8",
+    "sharp": "^0.35.4"
+  },
+  "scripts": {
+    "check": "node assemble-content.mjs && node check-tree.mjs && node check-tree.test.mjs && node check-content.mjs && node templates.test.mjs && node child.test.mjs",
+    "build": "node assemble-content.mjs && node check-content.mjs && node build.mjs && node build-kit.mjs",
+    "pdf": "node scripts/render-pdf.mjs",
+    "verify:print": "node scripts/verify-print.mjs binder.html kit-week-01.html kit-week-02.html kit-week-03.html"
+  }
+}
